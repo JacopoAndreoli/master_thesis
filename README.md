@@ -5,7 +5,5 @@ This repository contains ROS package individuated for the my master thesis work.
 </p>
 
 The overall idea is to recover a relative scaled dense depth estimation from a single RGB monocular image, exploiting the MiDaS Convolutional Neural network. Then, the absolute scale is evaluated coupling the 2D LiDAR information with the depth map output from MiDaS. The fusion process consists into the projection of LiDAR measurements over the camera image plane and then, given the set of pairs measured depth-estimated depth, a linear regression model is performed.
+![](https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif)
 
-<p align="center">
-  ![](https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif)
-</p>
