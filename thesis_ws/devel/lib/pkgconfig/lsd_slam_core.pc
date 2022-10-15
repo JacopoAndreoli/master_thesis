@@ -1,8 +1,0 @@
-prefix=/home/jacopo/thesis_ws/devel
-
-Name: lsd_slam_core
-Description: Description of lsd_slam_core
-Version: 0.0.0
-Cflags: -I/home/jacopo/thesis_ws/devel/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib -llsdslam /usr/lib/x86_64-linux-gnu/libcholmod.so /usr/lib/x86_64-linux-gnu/libamd.so
-Requires: libg2o message_runtime

@@ -1,2 +1,0 @@
-lsd_slam/lsd_slam:lsd_slam/lsd_slam_core:lsd_slam/lsd_slam_viewer
--DCATKIN_DEVEL_PREFIX=/home/jacopo/thesis_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jacopo/thesis_ws/install -G Unix Makefiles
