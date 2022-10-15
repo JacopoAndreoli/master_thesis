@@ -1,8 +1,0 @@
-prefix=/home/jacopo/optimizer_ws/install
-
-Name: pcl_handler
-Description: Description of pcl_handler
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime

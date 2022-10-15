@@ -1,2 +1,0 @@
-optimizer:pcl_handler
--DCATKIN_DEVEL_PREFIX=/home/jacopo/optimizer_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jacopo/optimizer_ws/install -G Unix Makefiles
