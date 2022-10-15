@@ -1,0 +1,8 @@
+prefix=/home/jacopo/optimizer_ws/devel
+
+Name: pcl_handler
+Description: Description of pcl_handler
+Version: 0.0.0
+Cflags: -I/home/jacopo/optimizer_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
