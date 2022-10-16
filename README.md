@@ -10,4 +10,7 @@ The overall idea is to recover a relative scaled dense depth estimation from a s
   <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif" alt="animated" />
 </p>
 
-
+The final pointcloud generated is obtained considering the intrinsic parameter for the camera matrix 
+<p align="center">
+  <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif" alt="animated" />
+</p>
