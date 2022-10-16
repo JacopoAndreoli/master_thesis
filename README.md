@@ -10,7 +10,13 @@ The overall idea is to recover a relative scaled dense depth estimation from a s
   <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif" alt="animated" />
 </p>
 
-The final pointcloud generated is obtained considering the intrinsic parameter for the camera matrix 
+The final ROS network built for the SLAM software architecture is shown in the next image. The last gif is reporting the overall pointcloud generated at the end
+
+<p align="center">
+  <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/sensors_system.png"  width="750" height="400">
+</p>
+
+
 <p align="center">
   <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif" alt="animated" />
 </p>
