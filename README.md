@@ -18,5 +18,5 @@ The final ROS network built for the SLAM software architecture is shown in the n
 
 
 <p align="center">
-  <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif" alt="animated" />
+  <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/pointcloud_gift_modified.gif" alt="animated" />
 </p>
