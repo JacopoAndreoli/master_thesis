@@ -1,5 +1,5 @@
 # master_thesis
-This repository contains ROS package individuated for the my master thesis work. It has built during the Erasmus+ mobility period at the Universitè Catholique du Louvaine. A brief explanation about its working principle and the setup needed for the software architecture is reported in the "master_thesis.pdf" file. 
+This repository contains ROS package individuated for the my master thesis work. It has built during the Erasmus+ mobility period at the Universitè Catholique du Louvaine. A full description about the overall setup can be extracted from the master thesis pdf file "master_thesis.pdf", where it is analyzed the overall solution found.
 <p align="center">
   <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/sensors_system.png"  width="750" height="400">
 </p>
