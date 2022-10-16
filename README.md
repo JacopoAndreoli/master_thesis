@@ -9,13 +9,11 @@ Briefly summarizing, the overall idea is to recover a relative scaled dense dept
   <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/test_lidar_modified(1).gif" alt="animated" />
 </p>
 
-The final ROS network built for the SLAM software architecture is shown in the next image. The last gif is reporting the overall pointcloud generated at the end
+The final ROS network built for the SLAM software architecture is shown in the next image. The last gif is reporting the overall pointcloud generated at the end. It is based on the LSD-SLAM solution; however, it could be integrated with any type of localization process.
 
 <p align="center">
   <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/slam_architecture.drawio-1-1.png"  width="750" height="400">
 </p>
-
-
 <p align="center">
   <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/pointcloud_gift_modified.gif" alt="animated" />
 </p>
