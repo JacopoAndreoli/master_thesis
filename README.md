@@ -13,7 +13,7 @@ The overall idea is to recover a relative scaled dense depth estimation from a s
 The final ROS network built for the SLAM software architecture is shown in the next image. The last gif is reporting the overall pointcloud generated at the end
 
 <p align="center">
-  <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/sensors_system.png"  width="750" height="400">
+  <img src="https://github.com/JacopoAndreoli/master_thesis/blob/main/gif/slam_architecture.drawio-1-1.png"  width="750" height="400">
 </p>
 
 
